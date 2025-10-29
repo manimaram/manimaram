@@ -108,8 +108,19 @@ Designed a **smart canteen ordering system** prototype with real-time tracking a
 
 <div align="center">
 
-![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manimaram&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&border_radius=10)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manimaram&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)  
+<!-- GitHub Stats Card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=manimaram&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&border_radius=10" 
+  alt="Mani's GitHub Stats" 
+  height="180"
+/>
+
+<!-- Top Languages Card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimaram&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" 
+  alt="Top Languages" 
+  height="180"
+/>
 
 </div>
 
