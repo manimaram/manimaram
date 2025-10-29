@@ -1,18 +1,33 @@
+<div align="center">
+
 # 🧠 Mani Maram | Developer & Problem Solver  
 
-Hi there 👋 I’m **Mani**, a passionate developer who loves building efficient solutions and exploring challenging problems in **Java**, **Web Development**, and **Data Structures & Algorithms**.  
+### 🚀 Java • Web Development • Data Structures & Algorithms  
 
-I enjoy combining logical problem-solving with creative UI design, and I’m currently expanding my expertise in **React**, **Spring Boot**, and **full-stack development**.  
+<p>
+  <a href="https://mani-maram-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mvsnagamani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/manimaram" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:manimaram781@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me  
+## 👋 About Me  
 
-- 💻 I code mostly in **Java**, and also work with **React**, **SQL**, and **PHP**.  
-- 🧩 Passionate about **graph theory**, **algorithmic problem solving**, and **data visualization**.  
-- 🧠 Currently exploring **AI-assisted education tools** through my project **EduLift**.  
-- 💬 Ask me about **Java optimization**, **UI/UX design**, or **frontend–backend integration**.  
-- 📫 Reach me at: **manimaram781@gmail.com**  
+Hi! I’m **Mani**, a passionate developer who loves building efficient solutions and tackling challenging problems in **Java**, **Web Development**, and **Algorithms**.  
+
+I enjoy combining logical problem-solving with creative UI design and am currently expanding my expertise in **React**, **Spring Boot**, and **Full-Stack Development**.  
 
 ---
 
@@ -29,7 +44,7 @@ _Sreenidhi Institute of Science and Technology, Hyderabad_
 **Intern | Vasavi Constructions** — _February 2025_  
 - Led creative direction and managed client interactions to ensure personalized marketing experiences.  
 - Implemented strategic project plans that enhanced market visibility and business growth.  
-- Strengthened long-term client relations through smart communication and reliability.  
+- Strengthened long-term client relations through effective communication and reliability.  
 
 ---
 
@@ -57,7 +72,7 @@ A UI/UX design for a **smart canteen ordering system** with real-time tracking a
 
 **Programming & Analysis:** Java, SQL, Python, R  
 **Web Development:** HTML, CSS, JavaScript, React, PHP  
-**Data Visualization Tools:** Tableau, Power BI, Excel  
+**Data Visualization:** Tableau, Power BI, Excel  
 **Developer Tools:** VS Code, Figma, Vercel, WordPress, GitHub  
 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
 **Soft Skills:** Problem Solving, Strategic Planning, Client Interaction, Negotiation  
@@ -86,13 +101,19 @@ A UI/UX design for a **smart canteen ordering system** with real-time tracking a
 
 ---
 
-## 🌐 Connect With Me  
+## 📊 GitHub Stats  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel&logoColor=white)](https://mani-maram-portfolio.onrender.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvsnagamani/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:manimaram781@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/manimaram)  
+<div align="center">
+
+![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manimaram&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manimaram&layout=compact&theme=tokyonight)  
+
+</div>
 
 ---
 
+<div align="center">
+  
 ⭐ **“Code. Learn. Improve. Repeat.”**
+  
+</div>
